@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJECT_NAME="paypal-taxes-log"
+PROJECT_NAME="Paypal-Taxes-Log"
 PROJECT_ID="1UU1UVxdkuTtPamFhpnHweCGCC5RIz1gRsVpKV6p3IUhnBFfAls86TtPI"
 
 MESSAGE_UP_TO_DATE="nothing to commit, working tree clean"
